@@ -32,8 +32,6 @@
 </div>
 
 
-<!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Shu's GitHub ! 🍀</h1>
 
 
 
